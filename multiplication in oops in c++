@@ -1,0 +1,14 @@
+class Solution{   
+public:
+    int multiplication(int A, int B){
+        //use here return for output
+    return A*B;
+    }
+        //object code here 
+        int main(){
+        int A=1;
+        int B=3;
+        int result = multiplication(A,B);
+        }
+
+};
